@@ -14,6 +14,7 @@ h1 {
   font-family: 'Sacramento', cursive;
   font-size: 100px;
   color: #DADADA;
+  text-align: center;
 }
 
 h2 {
@@ -44,6 +45,7 @@ hr {
 .top-container {
   background-color: Black;
   padding: 100px 500px;
+  text-align: center;
 }
 
 .middle-container {
