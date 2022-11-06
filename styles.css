@@ -55,12 +55,14 @@ hr {
   margin: 0px 0;
   padding-top: 50px;
   padding-bottom: 50px;
+  width: 100%;
 
 }
 
 .bottom-container {
   background-color: Black;
   padding: 50px 0 20px;
+  width: 100%;
 
 }
 
